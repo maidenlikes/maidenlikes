@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Serena
+## 👋 Hi, I'm Rezza
 
 I’m a **Backend & Automation Developer** with strong experience in building automated systems, backend services, and bot-based applications.  
 I enjoy creating solutions that are reliable, scalable, and easy to maintain.
